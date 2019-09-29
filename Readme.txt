@@ -1,4 +1,4 @@
-Website is at home-listings.netlify.com
+Website is at https://home-listings.netlify.com
 
 How to edit listings? 
 Using a source code editor (VSCode, Atom, etc), go to around line 250 ish. 
